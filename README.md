@@ -1,2 +1,2 @@
 # simple-go
-simple web server in golang
+simple web server in golang for testing
